@@ -1,6 +1,4 @@
-console.log("Meet")
-console.log("Meet")
-console.log("Meet")
+console.log
 console.log("Meet")
 
 
